@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARITCLASS", "ARITCLASS\ARITCLASS.csproj", "{CDADEFED-43A9-45E6-8E87-88910A6A1ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDADEFED-43A9-45E6-8E87-88910A6A1ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDADEFED-43A9-45E6-8E87-88910A6A1ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDADEFED-43A9-45E6-8E87-88910A6A1ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDADEFED-43A9-45E6-8E87-88910A6A1ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FEE2FD4-9967-4E74-B429-15011D4A2600}
+	EndGlobalSection
+EndGlobal
